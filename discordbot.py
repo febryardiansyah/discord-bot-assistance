@@ -42,4 +42,4 @@ async def unban(ctx,*,member):
             await ctx.send(f'unban {user.mention}')
             return
             
-client.run('Njg4OTY3OTEyNDkyMzY3ODk1.Xr6f4A.nflDp4jMpdUt85Mo4yQdeAS5M8A')
+client.run('YOUR_TOKEN')
